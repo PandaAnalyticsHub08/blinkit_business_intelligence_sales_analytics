@@ -1,0 +1,11 @@
+offer_id,offer_code,offer_name,offer_type,description,minimum_order_value,discount_amount,discount_percentage,max_discount_amount,start_date,end_date,usage_limit,offer_status
+1,FREEDEL50,Free Delivery ₹50,Free Delivery,Free delivery on eligible orders,299,0,0,50,2026-01-01,2026-12-31,5000,Active
+2,SAVE100,Save ₹100,Flat Discount,Flat ₹100 discount on eligible orders,799,100,0,100,2026-01-01,2026-12-31,3000,Active
+3,SAVE20,20% Off,Percentage Discount,20% discount on eligible orders,499,0,20,150,2026-01-01,2026-06-30,2500,Expired
+4,FIRST150,First Order ₹150 Off,First Order Offer,Special discount for first-time customers,599,150,0,150,2026-01-01,2026-12-31,2000,Active
+5,CASHBACK75,₹75 Cashback,Cashback,Cashback on eligible orders,699,0,0,75,2026-02-01,2026-12-31,3500,Active
+6,FESTIVE25,Festive 25% Off,Festival Offer,Festival season percentage discount,899,0,25,200,2026-10-01,2026-11-15,4000,Scheduled
+7,FREEDEL99,Free Delivery ₹99,Free Delivery,Free delivery for selected orders,399,0,0,99,2026-03-01,2026-09-30,3000,Expired
+8,SAVE50,Save ₹50,Flat Discount,Flat ₹50 discount,399,50,0,50,2026-04-01,2026-12-31,4500,Active
+9,WEEKEND15,Weekend 15% Off,Percentage Discount,Weekend promotional discount,599,0,15,100,2026-05-01,2026-12-31,5000,Active
+10,WELCOME200,Welcome ₹200 Off,First Order Offer,Welcome offer for new customers,999,200,0,200,2026-01-01,2026-12-31,1500,Active
